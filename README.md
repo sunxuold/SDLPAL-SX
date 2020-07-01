@@ -1,1 +1,1 @@
-# SDLPAL-SX
+docs/README.md
